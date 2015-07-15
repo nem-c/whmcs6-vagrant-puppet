@@ -44,3 +44,6 @@ Database details required are:
     database_name: "whmcs_db"
 }
 ```
+
+WHMCS code is not included and you can aquire your version on https://www.whmcs.com, where you can also receive
+developers license
